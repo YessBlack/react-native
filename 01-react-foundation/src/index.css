@@ -1,0 +1,12 @@
+main {
+  width: 100vw;
+  display: flex;
+  flex-direction: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 5px;
+}
