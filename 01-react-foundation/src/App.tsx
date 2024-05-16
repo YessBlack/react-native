@@ -1,9 +1,12 @@
 import './App.css'
+import { BasicFunctions, BasicTypes, ObjectLiterals } from './typescript'
 
 function App() {
   return (
     <main>
-        Introduccion a TS Con React
+        <BasicTypes />
+        <ObjectLiterals />
+        <BasicFunctions />
     </main>
   )
 }
